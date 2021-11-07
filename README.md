@@ -1,2 +1,1 @@
-# test-git
-# testg
+# New Readme is ready for use
